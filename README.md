@@ -14,4 +14,4 @@ cmake --build .
 
 It then runs for a while to compile the dependencies.
 
-Run the executable MailPunk in the build directory to run the programme.
+Run the executable MailPunk in the build directory to run the programme!
